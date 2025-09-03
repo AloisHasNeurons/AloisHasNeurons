@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aloïs</h1>
-<h3 align="center">Masters student at Paris-Saclay University</h3>
+<h3 align="center">Engineering student at IMT Atlantique</h3>
 
 - 🔭 I’m currently working on **RNA 3D Structure analysis**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **alois.vincent@universite-paris-saclay.fr**
+- 📫 How to reach me **alois.vincent@imt-atlantique.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
