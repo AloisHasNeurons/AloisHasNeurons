@@ -5,7 +5,7 @@
 ```yaml
 name: Aloïs Vincent
 located_in: Brest, France
-current_job: Full Stack Developer
+current_job: Looking for a software engineering internship
 education:
   [
     "Engineering Degree (M.S. Equivalent) in Software Engineering, IMT Atlantique",
