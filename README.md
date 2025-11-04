@@ -3,9 +3,9 @@
 <h4> &nbsp;A Little Bit About Me and My Interests</h4>
 
 ```yaml
-name: Aloïs Vincent
-located_in: Brest, France
-current_job: Looking for a software engineering internship
+name: "Aloïs Vincent"
+located_in: "Brest, France"
+current_job: "Looking for a software engineering internship"
 education:
   [
     "Engineering Degree (M.S. Equivalent) in Software Engineering, IMT Atlantique",
@@ -32,7 +32,7 @@ currently_learning: ["Nix, C++, self-hosting"]
 <a href="https://linkedin.com/in/aloïs-vincent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aloïs-vincent" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 <p align="left">
