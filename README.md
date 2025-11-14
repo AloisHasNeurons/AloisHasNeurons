@@ -78,6 +78,3 @@ currently_learning: ["Nix, C++, self-hosting"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" alt="Hadoop" width="45" height="45" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloishasneurons&show_icons=true&locale=en&layout=compact" alt="aloishasneurons" /></p>
-
