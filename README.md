@@ -4,8 +4,8 @@
 
 ```yaml
 name: "Aloïs Vincent"
-located_in: "Brest, France"
-current_job: "Looking for a software engineering internship"
+located_in: "Paris, France"
+current_job: "5-months DevOps Internship"
 education:
   [
     "Engineering Degree (M.S. Equivalent) in Software Engineering, IMT Atlantique",
@@ -25,7 +25,7 @@ technical_background:
     "Intern - AI research: Fine-tuning computer vision model in Python",
   ]
   
-currently_learning: ["Nix, C++, self-hosting"]
+currently_learning: ["Nix, Go, self-hosting"]
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
